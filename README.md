@@ -5,7 +5,7 @@
 - 🧑‍💻 **Data Analyst (3 yrs)** building churn models, A/B tests & real‑time demand forecasts  
 - 🎯 Passionate about **ML‑powered growth**, payment risk, and last‑mile ops  
 - 📊 Tableau Desktop Specialist | PyData speaker | Flipkart Grid 5.0 Hackathon winner  
-- 🌱 Currently: shipping a **Credit‑Card Recommendation Engine** & prepping for **GATE CS 2026**
+- 🌱 Currently: shipping a **Credit‑Card Recommendation Engine**
 
 ---
 
@@ -43,6 +43,3 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarath-chandra-v-822612176)  [![Mail](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:sarathchandra3255@gmail.com)
-
-
-> **Fun fact** — I watch the *Salaar Kateramma* fight scene daily for an adrenaline rush! ⚔️
